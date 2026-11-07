@@ -1,3 +1,5 @@
 yt-dlp
 openai-whisper
 torch
+playwright
+# python -m playwright install chromium
